@@ -1,0 +1,14 @@
+Number of records is: 1527148
+Min value is: 0
+Max value is: 6912
+Mean value is: 1090.051025178961
+Min Time Stamp is: 2017-01-01 00:00:30
+Max Time Stamp is: 2018-08-07 00:00:00
+
+Dates when more than one hour of data missed:
+Period end: 2017-02-20 07:58:00 Period length: 74190.0
+Period end: 2017-02-03 06:09:00 Period length: 46950.0
+Period end: 2017-04-10 10:51:30 Period length: 9240.0
+Period end: 2017-02-02 16:06:00 Period length: 5160.0
+Period end: 2018-03-25 03:00:30 Period length: 3660.0
+Period end: 2017-03-26 03:00:00 Period length: 3630.0

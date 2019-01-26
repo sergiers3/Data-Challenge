@@ -1,0 +1,36 @@
+Number of records is: 1235581
+Min value is: -24.0
+Max value is: 3348.958
+Mean value is: 1790.0076226923932
+Min Time Stamp is: 2017-01-01 00:21:50
+Max Time Stamp is: 2017-08-07 00:00:00
+
+Dates when more than one hour of data missed:
+Period end: 2017-02-20 07:59:36 Period length: 75381.0
+Period end: 2017-02-03 06:54:20 Period length: 50400.0
+Period end: 2017-05-19 13:34:53 Period length: 19551.0
+Period end: 2017-04-10 10:53:25 Period length: 12925.0
+Period end: 2017-02-02 16:54:20 Period length: 8817.0
+Period end: 2017-03-26 03:15:25 Period length: 7190.0
+Period end: 2017-05-03 14:20:30 Period length: 6820.0
+Period end: 2017-03-22 23:03:34 Period length: 4314.0
+Period end: 2017-01-28 21:05:15 Period length: 3604.0
+Period end: 2017-05-05 11:22:30 Period length: 3604.0
+Period end: 2017-03-23 00:03:40 Period length: 3604.0
+Period end: 2017-01-17 06:58:55 Period length: 3604.0
+Period end: 2017-05-08 02:30:55 Period length: 3603.0
+Period end: 2017-04-29 22:14:45 Period length: 3603.0
+Period end: 2017-02-22 16:39:40 Period length: 3603.0
+Period end: 2017-04-03 15:59:55 Period length: 3603.0
+Period end: 2017-03-11 04:24:05 Period length: 3603.0
+Period end: 2017-05-09 06:49:30 Period length: 3602.0
+Period end: 2017-01-04 13:42:20 Period length: 3602.0
+Period end: 2017-01-12 21:22:40 Period length: 3602.0
+Period end: 2017-02-23 19:08:40 Period length: 3602.0
+Period end: 2017-02-20 08:59:40 Period length: 3602.0
+Period end: 2017-01-13 12:31:25 Period length: 3602.0
+Period end: 2017-02-27 18:30:40 Period length: 3602.0
+Period end: 2017-03-17 08:05:25 Period length: 3601.0
+Period end: 2017-02-18 19:04:20 Period length: 3601.0
+Period end: 2017-02-15 02:52:35 Period length: 3601.0
+Period end: 2017-01-21 09:16:40 Period length: 3601.0
