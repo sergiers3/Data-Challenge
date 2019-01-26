@@ -1,5 +1,7 @@
 ## Folder structure:
 
+This is a copy of the repository of the Data Challenge 2018 of Capita Selecta (TUe). This repository is the result of many hours of work carried out by a team of students of different nationalities.
+
 ```
 /
 │ README.md 
